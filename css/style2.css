@@ -1,0 +1,84 @@
+
+
+.header{
+	padding: 15px 0px;
+
+}
+
+.col-md-5 img{
+    height: 42px;
+    padding-left: 20px;
+}
+
+span.underline{
+	width: 100%;
+    border: 3px solid;
+    color: #c5c1c1c7;
+    display: block;
+
+}
+
+.Contract{
+	background: #ee4a3ff2;
+	color: #fff;
+
+}
+
+.col-md-12 h1{
+	padding-top: 40px;
+	
+}
+
+.col-md-12 img{
+	width: 1050px;
+}
+
+.col-md-12  {
+    font-size: 15px;
+    padding-top: 20px;
+}
+
+.col-md-12 p {
+    font-size: 15px;
+ }
+
+.form{
+	background: #ee4a3ff2;
+	color: #fff;
+
+}
+
+label{
+	color: #fff;
+	font-size: 13px;
+}
+
+.form-control{
+	background: transparent;
+	padding: 9px 75px;
+	margin-bottom: 12px;
+	margin-top: 10px;
+	border: 1px solid #f42020e0;
+}
+
+button.btn.btn-primary {
+	margin-top: 70px;
+	margin-left: 30px;
+	background: transparent;
+	border: 1px solid #ee4a3f;
+	color: #fff;
+}
+
+
+
+.footer{
+	background: #ee4a3f;
+	color: #fff;
+	
+}
+
+.bg {
+    font-size: 15px;
+    text-align: center;
+	
+}
